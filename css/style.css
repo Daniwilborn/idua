@@ -1,0 +1,16 @@
+/*Universal*/
+.black {
+  background-color: black;
+}
+.medium-height {
+  height: 60px;
+}
+.small-height{
+  height: 20px;
+}
+.extra-large-height{
+  height: 240px;
+}
+.large-height{
+  height: 120px;
+}
